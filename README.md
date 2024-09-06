@@ -1,5 +1,9 @@
 ![Fish](https://github.com/sourceduty/Invasive_Fish/assets/123030236/24da7da0-b4b8-47b9-a7e3-0b73ad5b4652)
 
+> Chemically deterring invasive fish species.
+
+#
+
 An invasive fish species refers to a non-native species of fish that has been introduced, either intentionally or accidentally, into an ecosystem where it did not originally occur. Once introduced, these species can rapidly reproduce and spread, often outcompeting native fish species for resources such as food, habitat, and breeding grounds. Invasive fish species can disrupt the balance of ecosystems, leading to declines in native fish populations, changes in habitat structure, and alterations to food webs. They can also have significant economic impacts on industries such as fisheries, aquaculture, and recreation. Control and management efforts are often necessary to mitigate the negative effects of invasive fish species on ecosystems and human activities.
 
 ### Current Management
@@ -67,6 +71,25 @@ Repulse and repel chemicals are designed to deter invasive species from entering
 Piscicides, on the other hand, are chemicals specifically formulated to kill fish, and they are often used to target invasive fish populations. Piscicides can be very effective in quickly reducing or eliminating unwanted fish populations from a water body. This direct approach can be necessary in situations where invasive species have severely disrupted local ecosystems and other control methods have failed. However, the use of piscicides can have significant downsides, including the potential for collateral damage to non-target species, disruptions to the food chain, and long-term environmental impacts if the chemicals are not carefully managed. Piscicides require careful application and often follow-up treatments to maintain control over invasive species populations.
 
 In summary, while repulse and repel chemicals offer a less invasive approach by deterring invasive species without direct harm, piscicides provide a more immediate but potentially ecologically disruptive solution to controlling invasive fish populations. The choice between these methods depends on the specific circumstances, including the severity of the invasion, the particular invasive species involved, the ecological characteristics of the affected water body, and the conservation goals of the management effort.
+
+#
+### Related Links
+
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Boats](https://github.com/sourceduty/Boats)
+<br>
+[Shoreline Trimmer](https://github.com/sourceduty/Shoreline_Trimmer)
+<br>
+[Scuba Zip](https://github.com/sourceduty/Scuba_Zip)
+<br>
+[Emergency Buoys](https://github.com/sourceduty/Emergency_Buoys)
+<br>
+[Sediment Coagulation](https://github.com/sourceduty/Sediment_Coagulation)
+<br>
+[Freshwater Weeds](https://github.com/sourceduty/Freshwater_Weeds)
+<br>
+[Invasive Fish](https://github.com/sourceduty/Invasive_Fish)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
